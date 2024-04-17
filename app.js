@@ -11,3 +11,4 @@ function restoreContent(element) {
   element.textContent = "©Ansh Wasan";
 }
 
+
