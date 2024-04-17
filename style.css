@@ -31,12 +31,14 @@ a,
 nav,
 .nav-links {
   display: flex;
+  color: white;
 }
 
 nav {
   justify-content: space-around;
   align-items: center;
   height: 17vh;
+  background-color: black;
 }
 
 .nav-links {
@@ -46,7 +48,7 @@ nav {
 }
 
 a {
-  color: black;
+  color: white;
   text-decoration: none;
   text-decoration-color: white;
 }
