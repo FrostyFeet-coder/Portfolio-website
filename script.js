@@ -20,4 +20,10 @@ tl.from("#profile", {
 });
 
 
+const scroll = new LocomotiveScroll({
+  el: document.querySelector("body"),
+  smooth: true,
+});
+
+
 
